@@ -1,3 +1,5 @@
+/* controlador de reações no chat */
+
 import { Subject } from "rxjs";
 
 const subject = new Subject();
