@@ -9,7 +9,9 @@ src/
 .eslintrc
 .gitignore
 .npmignore
+.prettierrc
 jest.config.js
 jest.setup.js
 webpack.config.js
 yarn.lock
+

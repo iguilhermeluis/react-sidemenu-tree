@@ -1,6 +1,6 @@
 # React Components Template
 
-Template to create independent React components to publish on NPM.
+In testing, please do not install!!!
 
 ## Dev environment
 
@@ -45,6 +45,6 @@ After that, run `git push --follow-tags && npm publish` to publish the new versi
 
 This template allows us to use [React Hooks](https://reactjs.org/docs/hooks-intro.html) and [Styled Components](https://styled-components.com/).
 
-This don't prevent you to use *class syntax* to create your components or stylize with *normal CSS* and *SASS*, but depending of your necessities, could be necessary install other dependencies and do new configurations on your `webpack.config.js` module.
+This don't prevent you to use _class syntax_ to create your components or stylize with _normal CSS_ and _SASS_, but depending of your necessities, could be necessary install other dependencies and do new configurations on your `webpack.config.js` module.
 
 It's important make sure that **the React version in the project that you want to use your component be equal or higher that the version of your component to ensure the full compatibility**.
